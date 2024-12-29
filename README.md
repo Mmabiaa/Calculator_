@@ -18,4 +18,4 @@ To get started with the Calculator App, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/mmabiaa/calculator_.git
