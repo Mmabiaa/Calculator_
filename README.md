@@ -15,7 +15,9 @@ A simple yet powerful calculator built with Python and Tkinter. This calculator 
 
 ## Screenshots
 
-![Calculator Screenshot](https://github.com/Mmabiaa/Calculator_/blob/main/cal%20(1).png)
+![Calculator Screenshot](https://github.com/Mmabiaa/Calculator_/blob/Update-Branch/assets/demo/demo.jpg)
+![Calculator Screenshot](https://github.com/Mmabiaa/Calculator_/blob/Update-Branch/assets/demo/result.jpg)
+
 
 ## Installation
 
