@@ -11,22 +11,27 @@ If you encounter bugs or have suggestions for improvements, please open an issue
 1. **Fork the Repository**: Click the "Fork" button at the top right of the repository page to create your own copy of the project.
    
 2. **Clone Your Fork**: Clone your forked repository to your local machine:
+```bash
 git clone https://github.com/mmabiaa/calculator_.git
-
+```
 3. **Create a Branch**: Create a new branch for your feature or bug fix:
+```
 git checkout -b feature/your-feature-name
-
+```
 4. **Make Changes**: Implement your changes. Ensure that your code adheres to the existing style and conventions used in the project.
 
 5. **Test Your Changes**: Run the application and ensure that everything works as expected. If applicable, add tests for any new features.
 
 6. **Commit Your Changes**: Commit your changes with a clear and concise commit message:
+```
 git commit -m “Add feature: description of feature”
+```
 
 7. **Push Your Changes**: Push your changes to your forked repository:
+```
 git push origin feature/your-feature-name
-
-8. **Create a Pull Request**: Go to the original repository and click on "New Pull Request." Select your branch and submit the pull request. Provide a detailed description of your changes.
+```
+9. **Create a Pull Request**: Go to the original repository and click on "New Pull Request." Select your branch and submit the pull request. Provide a detailed description of your changes.
 
 ### Code Style Guidelines
 - Follow PEP 8 guidelines for Python code.
