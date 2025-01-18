@@ -47,7 +47,7 @@ Once the application is running, you can perform calculations by clicking the bu
 
 ## Contributing
 
-We welcome contributions! To contribute to this project:
+We welcome contributions! To contribute to this project, please follow these steps or [view CONTRIBUTION FILE](Contribution.md):
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/YourFeature`).
@@ -65,6 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thank you to the contributors and users who help improve this project.
 - Inspired by various open-source calculator projects.
+- [View Code of Conduct](Code_of_conduct)
 
 ---
 
