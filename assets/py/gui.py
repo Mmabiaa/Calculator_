@@ -148,6 +148,11 @@ class CalculatorApp:
                 self.clear()
                 
         else:
+            if char == ".":
+                text = self.entry.get()
+                last_part = text.split()[-1] if " " in text else text.split("+-*/")[-1]
+                if "." in last_part:
+                    return
             self.entry.insert(END , char)
 
     def clear(self):
